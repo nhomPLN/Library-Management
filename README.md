@@ -24,8 +24,8 @@ A simple project on managing a library for "the introduction to software technol
 ## Setup
 This application can't work properly without these requirements:
 * Install DotnetBar
-* Visual Studio 2017 (or later)
-* Microsoft SQL server
+* Install Visual Studio 2017 (or later)
+* InStall Microsoft SQL server
 
 To run this application, after doing all the necessary requirements. Install the zip file, extract it and you will see the Library-Management folder and a '.cmd' file which is named "DatabaseInitializing". Run the .cmd file, window defender or other antivirus softwares might try to stop running that file, just disable the antivirus application and you should be able to excute the script file. Finally, Access the folder and open the Library-Management.sln file, hit F5 and it should work !  
 
