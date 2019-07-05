@@ -23,7 +23,6 @@ A simple project on managing a library for "the introduction to software technol
 
 ## Setup
 This application can't work properly without these requirements:
-* Install .NET 4.7 (C# 7.3 goes along with .NET 4.7)
 * Install DotnetBar
 * Visual Studio 2017 (or later)
 * Microsoft SQL server
